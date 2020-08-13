@@ -7,7 +7,7 @@ print u"\u001b[35m Priv8 Web Server Scanner Exploit \u001b[35m"
 print u" "
 print u"\u001b[32m Created Elchin \u001b[32m"
 print u"  "
-print u" \u001b[33mInstagram : murrez.sec \u001b[37m"
+print u" \u001b[33mInstagram : batalyonordu \u001b[37m"
 print u"  "
 lists = open(raw_input(' Site List : '), 'r').read().split('\n')
 for ip in lists:
